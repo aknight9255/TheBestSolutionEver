@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace TheBestProject.Service
 {
-    public class Class1
+    public class ServiceOne
     {
+        public void FakeMethod()
+        {
+            // Method logic goes here...
+        }
     }
 }
